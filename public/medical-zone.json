@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Joint Pain Checkup",
+    "price": "300",
+    "description": "Consultation : General Practice - 1 Laboratory : SERUM URIC ACID (4123-LAB) - 1 CALCIUM (4161-LAB) - 1 SERUM VITAMIN-D",
+    "img": "./1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Get Sugar Check",
+    "price": "125",
+    "description": "Consultation : General Practice - 1 Laboratory : Glyco -HB ( Hb A1c ) (4010-LAB) - 1 RANDOM BL. SUGAR (4105-LAB) - 1",
+    "img": "./2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "FREE Health Checkup",
+    "price": "0",
+    "description": "Regular health checks are very much important in preventing ill health. Most people do not notice straight away when they become unwell perhaps because there are no symptoms, .",
+    "img": "./3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Teeth Whitening",
+    "price": "499",
+    "description": "For a shining smile at all times, grab this amazing offer on Teeth Whitening by Medical Zone",
+    "img": "./4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Physiotheraphy Offer Package - 10 Sessions",
+    "price": "100",
+    "description": "Say good bye to your pain with Advanced #Physiotherapy Treatment at Medical Zone Bawadi Branch",
+    "img": "./5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Wisdom Tooth Extraction",
+    "price": "300",
+    "description": "Wisdom tooth giving you trouble? Get rid of it in a simple and quick procedure at Abeer Medical Centers.",
+    "img": "./6.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+/** @format */
+
+.nav_bg {
+  background-color: #b79fad;
+}
+ul li {
+  list-style-type: none;
+}
+Nav a {
+  color: white;
+  padding: 10px;
+  margin-left: 15px;
+  text-decoration: none;
+  font-size: 18px;
+}
+Nav a:hover {
+  color: #b79fad;
+  background-color: rgb(255, 255, 255);
+  border-radius: 7px;
+}
+.span-color {
+  color: #ff5733;
+  font-size: 25px;
+  font-weight: 900;
+}
+.nav-color {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}

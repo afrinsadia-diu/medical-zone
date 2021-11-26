@@ -1,0 +1,11 @@
+.carousel-control-prev{
+    color: red;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: rgb(255, 115, 0);
+    
+}
+.carousels-part{
+    margin-top:50px;
+    height:100vh;
+}

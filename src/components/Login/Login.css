@@ -1,0 +1,64 @@
+/** @format */
+
+.sign-up-form {
+  margin: 100px 0px 50px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up-form .sing_up_cotanier {
+  padding: 20px;
+  width: 32%;
+  border: 1px solid gray;
+  border-radius: 7px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.sign-up-form h4,
+.sign-up-form h6 {
+  text-align: center;
+}
+.sign-up-form h6 span {
+  text-transform: uppercase;
+  color: red;
+  text-decoration: underline;
+}
+.sign-up-form form {
+  margin-top: 20px;
+}
+.sign-up-form form label {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  display: block;
+}
+.sign-up-form form input {
+  font-size: 1rem;
+  height: 35px;
+  width: 100%;
+  border-radius: 7px;
+  outline: none;
+  border: none;
+  background: rgba(110, 101, 101, 0.1);
+}
+.sign-up-form .social {
+  margin-top: 20px;
+}
+.sign-up-form .social button {
+  width: 100%;
+  background-color: orange !important ;
+  border: none;
+}
+.sign-up-form .submit_button button {
+  width: 100%;
+  outline: none;
+}
+
+@media screen and (max-width: 768px) {
+  .sign-up-form .sing_up_cotanier {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .sign-up-form .sing_up_cotanier {
+    width: 70%;
+  }
+}

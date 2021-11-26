@@ -1,0 +1,34 @@
+/**
+ * /* .notFound{
+ *     background-image: url(../../assets/images/notFound.png);
+ *     background-position:center;
+ *     background-repeat:no-repeat;
+ *     background-size: cover;
+ *    height: 100vh;
+ * }
+ * .back-btn{
+ *     
+ *     margin-left:50%;
+ *     margin-top:50%;
+ * }
+ *
+ * @format
+ */
+
+.found {
+  background-color: rgb(237, 238, 243);
+  text-align: center;
+}
+.notFound {
+  font-size: 300px;
+  color: #1fd187;
+}
+.notFoundSpan {
+  font-size: 200px;
+  color: #b79fad;
+}
+.notFoundPage {
+  font-size: 60px;
+  color: #b79fad;
+  padding: 20px;
+}

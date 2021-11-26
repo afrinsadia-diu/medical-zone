@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Dr.Siyaudheen Vezhapilly Abdulkareem",
+    "description": "Medical Zone Center - Sharafiyah",
+    "img": "./doctors/1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dr.Jeena Muhammad Shaji",
+    "description": "Dentistry DENTIST Slot Duration:12 Minutes Minutes",
+    "img": "./doctors/2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dr.Madhu Palackal Machingal Radhakrish",
+    "description": "Urology Specialist Slot Duration:4 Minutes Minutes",
+    "img": "./doctors/3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dr.Alaaeldin Mohamed Khalil Mohamed",
+    "description": "OPTHALMOLOGY Specialist Slot Duration:7 Minutes Minutes",
+    "img": "./doctors/4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Dr.Anitha Mohan",
+    "description": "Paediatrics Specialist Slot Duration:5 Minutes Minutes",
+    "img": "./doctors/5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Dr.Aysha Nilufar Ismail Beary",
+    "description": "Dentistry  DENTIST  Slot Duration:12 Minutes Minutes",
+    "img": "./doctors/6.jpg"
+  }
+]
